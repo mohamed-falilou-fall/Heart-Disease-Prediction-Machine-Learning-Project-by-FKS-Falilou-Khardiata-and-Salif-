@@ -142,5 +142,6 @@ if st.sidebar.button('Se Connecter'):
 
 # Bas de page
 st.markdown("---")
-st.markdown("#### © 2024 Mohamed Falilou Fall - Application de Prédiction de la Maladie Cardiaque")
-st.markdown("##### Contact : mff.faliou.fall@gmail.com | Tel : +221 77 914 15 89")
+st.markdown("#### © 2024 Mohamed Falilou Fall , Khardiata Ke Faye , Mamadou Salif Diallo- Application de Prédiction de la Maladie Cardiaque")
+st.markdown("##### Contact : mff.faliou.fall@gmail.com | khardiatakefaye@gmail.com | mamadousalif.diallo@uadb.edu.sn")
+
