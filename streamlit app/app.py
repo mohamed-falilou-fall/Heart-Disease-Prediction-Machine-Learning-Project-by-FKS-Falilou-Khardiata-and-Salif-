@@ -50,7 +50,7 @@ st.markdown('''
 ''', unsafe_allow_html=True)
 
 # Titre de l'application
-st.title("FKS (Falilou, Khardiata et Salif) APPlication de Prédiction de la présence de maladie cardiaque")
+st.title("Falilou APPlication de Prédiction de la présence de maladie cardiaque")
 
 # Informations personnelles du patient
 st.write("Veuillez entrer vos informations personnelles :")
@@ -142,5 +142,5 @@ if st.sidebar.button('Se Connecter'):
 
 # Bas de page
 st.markdown("---")
-st.markdown("#### © 2024 Mohamed Falilou Fall , Khardiata Ke Faye , Mamadou Salif Diallo- Application de Prédiction de la Maladie Cardiaque")
-st.markdown("##### Contact : mff.faliou.fall@gmail.com | khardiatakefaye@gmail.com | mamadousalif.diallo@uadb.edu.sn")
+st.markdown("#### © 2024 Mohamed Falilou Fall Application de Prédiction de la Maladie Cardiaque")
+st.markdown("##### Contact : mff.faliou.fall@gmail.com")
